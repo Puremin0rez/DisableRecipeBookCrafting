@@ -1,0 +1,7 @@
+name: DisableRecipeBookCrafting
+version: ${project.version}
+api-version: 1.13
+main: com.dethemium.disablerecipebookcrafting.DisableRecipeBookCrafting
+depend: [ProtocolLib]
+authors: [Puremin0rez]
+description: Disable players ability to craft using the Recipe Book
