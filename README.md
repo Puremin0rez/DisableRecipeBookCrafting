@@ -1,6 +1,6 @@
 # DisableRecipeBookCrafting
 
-**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.16.3)**
+**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.17)**
 
 **Requires [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) to be installed on the server**
 
@@ -13,24 +13,26 @@ This functionality is blocked on the packet level. This plugin is useful for... 
 
 ## How do I obtain it?
 
-You can compile it yourself by using Maven and simply running the following command in the project folder:
-(The jar file will be located in /targets/)
+You can download stable releases via Github Releases, [located here.](https://github.com/Puremin0rez/DisableRecipeBookCrafting/releases)
+
+You can download development builds via Github Actions, [located here.](https://github.com/Puremin0rez/DisableRecipeBookCrafting/actions?query=branch%3Amaster+is%3Asuccess) (Github Account Required)
+
+You can compile it by running the following command in the project directory:
 
 ```
-mvn package
+./gradlew clean build
 ```
 
-You can also download the latest pre compiled binary over on the releases section of Github, located here:
-
-https://github.com/Puremin0rez/DisableRecipeBookCrafting/releases
+(The jar file will be located in `/build/libs/`)
 
 ## Can I use your code?
 
-Yes! This project is licensed as MIT. Refer to the project license here: [LICENSE.md](LICENSE.md)
+Yes! This project is licensed as [MIT](LICENSE.md)
 
 Basically, yeah, do whatever you'd like. Giving credit would be appreciated :)
 
 ## Acknowledgements
 
-* dmulloy2 and aadnk for creating the extremely useful ProtocolLib library
+* [dmulloy2](https://github.com/dmulloy2) and [aadnk](https://github.com/aadnk) for creating the extremely useful [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/) library
+* [Contributors](https://github.com/Puremin0rez/DisableRecipeBookCrafting/graphs/contributors) for helping improve the project.
 * You, for reading this and checking out the project.
