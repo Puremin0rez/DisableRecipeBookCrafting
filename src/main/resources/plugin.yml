@@ -5,3 +5,6 @@ main: ${group}.disablerecipebookcrafting.${name}
 depend: [ProtocolLib]
 authors: [Puremin0rez]
 description: Disable players ability to craft using the Recipe Book
+permissions:
+  disablerecipebookcrafting.exempt:
+    default: op
