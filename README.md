@@ -1,6 +1,6 @@
 # DisableRecipeBookCrafting
 
-**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.17)**
+**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.18)**
 
 **Requires [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) to be installed on the server**
 
@@ -27,9 +27,7 @@ You can compile it by running the following command in the project directory:
 
 ## Can I use your code?
 
-Yes! This project is licensed as [MIT](LICENSE.md)
-
-Basically, yeah, do whatever you'd like. Giving credit would be appreciated :)
+This project is licensed as [GPL-3.0](LICENSE) and may be used in any way that respects the aforementioned license.
 
 ## Acknowledgements
 
