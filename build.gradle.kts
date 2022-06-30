@@ -20,7 +20,7 @@ repositories {
 
 dependencies {
     compileOnly(group = "org.spigotmc", name = "spigot-api", version = "1.12-R0.1-SNAPSHOT")
-    compileOnly(group = "com.comphenix.protocol", name = "ProtocolLib", version = "4.7.0")
+    compileOnly(group = "com.comphenix.protocol", name = "ProtocolLib", version = "4.8.0")
 }
 
 defaultTasks("clean", "build")
