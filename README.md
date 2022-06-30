@@ -1,6 +1,6 @@
 # DisableRecipeBookCrafting
 
-**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.18)**
+**Compatible with Minecraft 1.12+ (Tested on Minecraft 1.19)**
 
 **Requires [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) to be installed on the server**
 
